@@ -1,4 +1,9 @@
-# Hello-World
-First repository
-First edit of the file as a test
-ok, let's try this again....
+# Demo Project README
+
+This is a simple readme file
+
+## Heading2
+
+Just some updates
+add branch updates
+update in stage
